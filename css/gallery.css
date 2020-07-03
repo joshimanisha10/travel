@@ -1,0 +1,19 @@
+
+
+
+div.gallery {
+	
+	border: 3px solid #ccc;
+	float: left;
+	
+  }
+  
+  div.gallery:hover {
+	border: 5px solid #ff4a52;
+  }
+  
+  div.gallery img {
+	width: 100%;
+	height: auto;
+  }
+  
